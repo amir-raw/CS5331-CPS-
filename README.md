@@ -25,10 +25,6 @@ The gesture controlled car project uses a variety of sensors to detect the gestu
 
 The IR remote controlled car project uses an IR receiver to receive commands from an IR remote control. The Arduino then uses these commands to control the movement of the car.
 
+#
 These projects are all open source, so you can use them as a starting point for your own CPS projects. You can also contribute to the repository by adding your own projects or by improving existing projects.
-
-
-
-## Conclusion
-
 By including the above features in your GitHub repository, you can make it easier for others to use your code and learn about CPS development.
